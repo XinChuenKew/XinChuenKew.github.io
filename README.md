@@ -1,6 +1,6 @@
 # About Me
 Bachelor of Robotics and Mechatronics Engineering in Artificial Intelligence (Honours) | Monash University <br>
-Passion on integrating Robotics and Artificial Intelligence.
+Aspiring Physical AI Engineer.
 
 ## Projects
 ___
